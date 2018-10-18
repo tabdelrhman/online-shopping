@@ -1,4 +1,4 @@
-package net.doc.shoppingbackend;
+package com.doc.shoppingbackend_AB;
 
 /**
  * Hello world!
